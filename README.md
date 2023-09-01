@@ -1,2 +1,2 @@
 # odin-recipes
-This is a readme file for the recipes html project.
+This project reviews html concepts such: as links, imgs, page navigation, headers, and lists 
